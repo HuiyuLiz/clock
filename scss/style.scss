@@ -13,7 +13,7 @@ body {
 }
 
 .clock {
-  background-image: url(./img/clock-bg.svg);
+  background-image: url(../img/clock-bg.svg);
   background-position: center;
   width: 500px;
   height: 500px;
@@ -31,7 +31,7 @@ body {
 }
 
 .clock-hour {
-  background-image: url(./img/hour-hand.svg);
+  background-image: url(../img/hour-hand.svg);
   width: 72px;
   height: 8px;
   left: 0;
@@ -43,7 +43,7 @@ body {
 }
 
 .clock-minute {
-  background-image: url(./img/minute-hand.svg);
+  background-image: url(../img/minute-hand.svg);
   width: 8px;
   height: 96px;
   position: absolute;

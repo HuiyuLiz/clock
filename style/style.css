@@ -72,7 +72,7 @@ body {
 }
 
 .clock-second {
-  background-image: url(./img/second-hand.svg);
+  background-image: url(../img/second-hand.svg);
   width: 13px;
   height: 126px;
   position: absolute;

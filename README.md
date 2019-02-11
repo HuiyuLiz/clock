@@ -1,4 +1,4 @@
-# 新手 JS 地下城 2F
+# JavaScript 題目篇 - 新手 JS 地下城
 2F - 時鐘  <a href="https://huiyuliz.github.io/clock/">完成品</a>
 
 # 參考教學

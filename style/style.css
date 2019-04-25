@@ -48,8 +48,8 @@ body {
   height: 8px;
   left: 0;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 48.5%;
+  left: 50.1%;
   -webkit-transform-origin: 0%;
           transform-origin: 0%;
   -webkit-transform: rotate(270deg);
@@ -62,10 +62,10 @@ body {
   height: 96px;
   position: absolute;
   top: calc(25% - 5px);
-  left: calc(50% - 8px / 2);
+  left: 49%;
   z-index: 999;
-  -webkit-transform-origin: center bottom;
-          transform-origin: center bottom;
+  -webkit-transform-origin: 50% 95%;
+          transform-origin: 50% 95%;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
   z-index: 2;
@@ -76,8 +76,8 @@ body {
   width: 13px;
   height: 126px;
   position: absolute;
-  top: 50%;
-  left: calc(50% - 6.5px);
+  top: 49.8%;
+  left: 48.2%;
   -webkit-transform-origin: center top;
           transform-origin: center top;
   -webkit-transform: rotate(180deg);
